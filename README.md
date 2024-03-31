@@ -1,6 +1,10 @@
 # The Flutter Foundation - A Comprehensive Guide for Technical Interviews and Beyond
 Welcome to “The Flutter Foundation: A Comprehensive Guide for Technical Interviews and Beyond”! Whether you’re a seasoned developer looking to delve into the world of Flutter or a newcomer eager to master the latest in cross-platform app development, this book is your ultimate companion.
 
+<p align="center" width="100%">
+    <img src="the-flutter-foundation-banner.png" alt="The Flutter Foundation - A Comprehensive Guide for Technical Interviews and Beyond">
+</p>
+
 ## Download Free @ https://chetanakarte.gumroad.com/l/the_flutter_foundation
 Flutter has rapidly gained popularity as a powerful framework for building beautiful and performant mobile, web, and desktop applications. With its reactive UI, hot reload feature, and extensive widget library, Flutter offers developers the flexibility and productivity needed to create stunning user experiences across platforms.
 
@@ -35,3 +39,11 @@ compiled and brought to you by…
 **Chetankumar Akarte**
 
 LinkedIn — https://www.linkedin.com/in/chetanakarte
+
+# Flutter Technical Interviews Questions
+*  **[How do you become a good Flutter Developer?](https://medium.com/@chetan.akarte/how-do-you-become-a-good-flutter-developer-234bae266f05)**
+
+*  **[What is Flutter, and how does it differ from other mobile app development frameworks?](https://medium.com/@chetan.akarte/what-is-flutter-and-how-does-it-differ-from-other-mobile-app-development-frameworks-add5549aebe3)**
+
+* **<a href="https://medium.com/@chetan.akarte/describe-flutters-architectural-overview-and-how-it-works-10fa85e99373" target="_blank">Describe Flutter’s architectural overview and how it works.</a>**
+  
