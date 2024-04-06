@@ -89,6 +89,27 @@ LinkedIn — https://www.linkedin.com/in/chetanakarte
 
 * **<a href="https://medium.com/@chetan.akarte/what-is-buildcontext-and-how-is-it-useful-in-a-flutter-application-c83cd41bb5bc" target="_blank">What is BuildContext and how is it useful in a flutter application? OR What are contexts in flutter?</a>**
 
+* **<a href="https://medium.com/@chetan.akarte/what-is-the-difference-between-main-and-runapp-functions-in-flutter-4b5252bac106" target="_blank">What is the difference between “main()” and “runApp()” functions in Flutter?</a>**
+
+ * **<a href="https://medium.com/@chetan.akarte/why-does-the-first-flutter-app-build-take-so-long-52fcf8a7c685" target="_blank">Why does the first Flutter app build take so long?</a>**
+
+ * **<a href="https://medium.com/@chetan.akarte/why-does-a-flutter-app-usually-take-a-longer-time-when-first-time-you-build-a-flutter-application-3b6c6091f2f7" target="_blank">Why does a flutter app usually take a longer time when first time you build a Flutter application?</a>**
+
+ * **<a href="https://medium.com/@chetan.akarte/how-does-dart-aot-work-877b3a1f444d" target="_blank">How does Dart AOT work?</a>**
+
+ * **<a href="https://medium.com/@chetan.akarte/how-many-data-types-have-been-supported-in-dart-29785757f149" target="_blank">How many Data Types have been Supported in Dart?</a>**
+
+ * **<a href="https://medium.com/@chetan.akarte/what-is-the-difference-between-shallow-copy-and-deep-copy-in-dart-and-when-would-you-use-each-6acf08f1097c" target="_blank">What is the difference between shallow copy and deep copy in Dart and when would you use each?</a>**
+
+ * **<a href="https://medium.com/@chetan.akarte/what-is-the-recommended-way-to-clone-a-dart-list-map-and-set-4dcbe65fe2b7" target="_blank">What is the recommended way to “clone” a Dart List, Map and Set?</a>**
+
+ * **<a href="https://medium.com/@chetan.akarte/how-to-create-private-variables-in-dart-60fff5bd1800" target="_blank">How to create private variables in Dart?</a>**
+
+ * **<a href="https://medium.com/@chetan.akarte/what-are-the-keys-in-flutter-and-when-to-use-it-7b5892efdf4f" target="_blank">What are the keys in Flutter and when to use it?</a>**
+
+ * **<a href="https://medium.com/@chetan.akarte/what-is-fat-arrow-syntax-in-dart-explain-with-example-ba1de9438005" target="_blank">What is “fat arrow” syntax in dart, explain with example?</a>**
+
+ * **<a href="https://medium.com/@chetan.akarte/in-dart-what-is-the-difference-between-these-operators-and-7414d02e8678" target="_blank">In Dart what is the difference between these operators ?? and ?.</a>**
 
 
   
