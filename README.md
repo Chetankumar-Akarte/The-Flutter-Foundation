@@ -111,5 +111,8 @@ LinkedIn — https://www.linkedin.com/in/chetanakarte
 
  * **<a href="https://medium.com/@chetan.akarte/in-dart-what-is-the-difference-between-these-operators-and-7414d02e8678" target="_blank">In Dart what is the difference between these operators ?? and ?.</a>**
 
+ * **<a href="https://medium.com/@chetan.akarte/how-to-access-property-or-method-conditionally-in-dart-642e9585a3a3" target="_blank">How to access property or method conditionally in Dart?</a>**
 
+ * **<a href="https://medium.com/@chetan.akarte/what-is-a-null-aware-operator-in-dart-e29e93c406b3" target="_blank">What is a Null Aware Operator in dart?</a>**
   
+ * **<a href="https://medium.com/@chetan.akarte/explain-the-spread-operator-in-dart-with-example-f8433bcca9ba" target="_blank">Explain the Spread operator in dart with example.</a>**
